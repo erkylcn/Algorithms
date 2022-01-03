@@ -17,3 +17,4 @@ Problems List
 7. Valid Parantheses
 8. Remove Element
 9. Plus One
+10. Search Insert Position

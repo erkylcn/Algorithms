@@ -7,8 +7,6 @@ public class PlusOne {
         System.out.println(Arrays.toString(new PlusOne().plusOne(new int[] { 1,2,3 })));
     }
 
-  
-
     public int[] plusOne(int[] digits) {
         int increment = 1;
         for (int i = digits.length - 1; i > -1; i--) {
