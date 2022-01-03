@@ -15,5 +15,5 @@ Problems List
 5. Roman To Integer
 6. Two Sum
 7. Valid Parantheses
-8. 
-9. 
+8. Remove Element
+9. Plus One
