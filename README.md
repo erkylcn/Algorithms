@@ -18,6 +18,8 @@ Problems List(leetcode)
 8. Remove Element
 9. Plus One
 10. Search Insert Position
+11. Add Two Numbers
+12. Remove Nth Node From End of List
 
 Problems List(codility.com)
 
