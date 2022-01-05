@@ -1,4 +1,6 @@
-class Solution {
+package codility;
+
+public class BinaryGap {
     public int solution(int N) {
 
         int maxGap = 0;

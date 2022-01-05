@@ -1,6 +1,7 @@
 package codility;
 
-class Solution {
+class CyclicRotation {
+
     public int[] solution(int[] A, int K) {
        
        int [] res = new int [A.length];
@@ -17,4 +18,3 @@ class Solution {
        return res;
     }
 }
-
